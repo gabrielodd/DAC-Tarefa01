@@ -129,10 +129,10 @@ public class HelloServlet extends HttpServlet {
                 msg = "Hallo, ";
                 break;
             case "kr":
-                msg = "안녕하세요, "
+                msg = "안녕하세요, ";
                 break;
             case "pl"
-                msg = "Cześć, "
+                msg = "Cześć, ";
                 break;
         }
         
